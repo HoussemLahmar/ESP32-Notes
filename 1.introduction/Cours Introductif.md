@@ -1,6 +1,7 @@
+
 # Formation ESP32  
 ## Introduction aux microcontrôleurs modernes  
-*Auteur: Houssem-eddine LAHMER*  
+**Auteur: Houssem-eddine LAHMER**  
 
 ---
 
@@ -26,7 +27,7 @@
 
 ### L'ESP32 : Un successeur moderne  
 
-![Module ESP32 typique](/images/1. Introduction/esp32-photo.jpg)  
+![Module ESP32 typique](images/1.introduction/esp32-photo.jpg)  
 
 - Système sur puce (SoC) d'Espressif Systems  
 - Double coeur Xtensa LX6 (240 MHz)  
@@ -57,7 +58,7 @@
 
 ### Arduino IDE pour ESP32  
 
-![Interface Arduino IDE](images/1.introduction/arduino-ide-esp32.jpg)  
+![Interface Arduino IDE](images/1.introduction/arduino-ide.png)  
 
 - Environnement de développement familier  
 - Support natif via Boards Manager  
@@ -93,8 +94,7 @@
 
 ### Utilité de l'ESP32  
 
-![Comparaison de taille Arduino vs ESP32](/../main/images/1.introduction
-/size-comparison.jpg)  
+![Comparaison de taille Arduino vs ESP32](images/1.introduction/size-comparison.jpg)  
 
 - Alternative puissante aux cartes Arduino :  
   - 240 MHz vs 16 MHz (Arduino Uno)  
