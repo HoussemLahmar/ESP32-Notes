@@ -57,7 +57,7 @@
 
 ### Arduino IDE pour ESP32  
 
-![Interface Arduino IDE](images/1. Introduction/arduino-ide.png)  
+![Interface Arduino IDE](images/1.introduction/arduino-ide-esp32.jpg)  
 
 - Environnement de développement familier  
 - Support natif via Boards Manager  
