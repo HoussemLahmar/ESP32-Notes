@@ -26,7 +26,7 @@
 
 ### L'ESP32 : Un successeur moderne  
 
-![Module ESP32 typique](./images/1.introduction/esp32-photo.jpg)  
+![Module ESP32 typique](images/1. Introduction/esp32-photo.jpg)  
 
 - Système sur puce (SoC) d'Espressif Systems  
 - Double coeur Xtensa LX6 (240 MHz)  
@@ -57,7 +57,7 @@
 
 ### Arduino IDE pour ESP32  
 
-![Interface Arduino IDE](images/1.introduction/arduino-ide.png)  
+![Interface Arduino IDE](images/1. Introduction/arduino-ide.png)  
 
 - Environnement de développement familier  
 - Support natif via Boards Manager  
