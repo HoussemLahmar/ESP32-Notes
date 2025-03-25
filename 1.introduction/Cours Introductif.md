@@ -216,7 +216,7 @@ void loop() { Serial.println("Hello ESP32"); }
 
 ### Wokwi - Simulateur IoT  
 
-![Interface Wokwi](images/1.introduction/wokwi-interface.png)  
+![Interface Wokwi](images/1.introduction/wokwi_iot_simulators.png)  
 
 - Simulation navigateur sans installation  
 - Composants virtuels : capteurs, écrans, protocoles  
