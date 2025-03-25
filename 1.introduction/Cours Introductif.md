@@ -26,7 +26,7 @@
 
 ### L'ESP32 : Un successeur moderne  
 
-![Module ESP32 typique](images/1. Introduction/esp32-photo.jpg)  
+![Module ESP32 typique](/images/1. Introduction/esp32-photo.jpg)  
 
 - Système sur puce (SoC) d'Espressif Systems  
 - Double coeur Xtensa LX6 (240 MHz)  
