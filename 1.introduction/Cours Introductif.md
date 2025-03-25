@@ -93,7 +93,7 @@
 
 ### Utilité de l'ESP32  
 
-![Comparaison de taille Arduino vs ESP32](ESP32-Notes/images/1.introduction
+[Comparaison de taille Arduino vs ESP32](ESP32-Notes/images/1.introduction
 /size-comparison.jpg)  
 
 - Alternative puissante aux cartes Arduino :  
