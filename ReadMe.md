@@ -1,5 +1,4 @@
 # Formation Introductive à l'ESP32  
-*Par Z-training*  
 **Formateur : Houssem Eddine Lahmer**  
 
 ---
