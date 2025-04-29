@@ -1,5 +1,7 @@
 ## Exemple 4 : Contrôle de la luminosité d’une LED avec un potentiomètre
 
+https://wokwi.com/projects/429594490057164801
+
 ### Matériel et principe de fonctionnement  
 - Un potentiomètre est un rhéostat à trois bornes constitué d’une résistance et d’un curseur, ce qui permet d’ajuster la position du contact pour obtenir un diviseur de tension variable  ([ESP32 - Potentiometer | ESP32 Tutorial](https://esp32io.com/tutorials/esp32-potentiometer?utm_source=chatgpt.com)).  
 - Employé avec deux bornes (une extrémité et le curseur), il se comporte comme une résistance variable, offrant une résistance ajustable en continu  ([ESP32 - Potentiometer | ESP32 Tutorial](https://esp32io.com/tutorials/esp32-potentiometer?utm_source=chatgpt.com)).  
