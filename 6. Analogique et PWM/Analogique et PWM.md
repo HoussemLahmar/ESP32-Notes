@@ -90,6 +90,8 @@ analogSetAttenuation(ADC_11db);  // Plage 0-3.3V
 - Prise de décision basée sur des seuils
 - Contrôle LED en fonction de la luminosité
 
+**Wokwi Link** https://wokwi.com/projects/378622524029754369
+
 ### Projet 3: Thermomètre
 
 **Objectif:** Mesurer la température avec un capteur analogique
