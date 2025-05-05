@@ -1,6 +1,4 @@
-Voici un exemple de fichier `README.md` qui explique clairement le fonctionnement du projet Wokwi que tu as partagé. Ce fichier est destiné à être affiché dans un dépôt GitHub ou tout autre environnement de documentation technique :
 
----
 
 # 🎹 Clavier MIDI avec ESP32 et Keypad 4x4
 
