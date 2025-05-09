@@ -1,4 +1,4 @@
-Cet README présente en détail le projet Wokwi simulant un ESP32 DevKitC-V4 pilotant un écran TFT ILI9341, une LED, un buzzer et trois boutons poussoirs. Il explique la configuration matérielle, les bibliothèques logicielles nécessaires, l’organisation du code et son fonctionnement pas à pas.
+Ici, on présente en détail le projet Wokwi simulant un ESP32 DevKitC-V4 pilotant un écran TFT ILI9341, une LED, un buzzer et trois boutons poussoirs. Il explique la configuration matérielle, les bibliothèques logicielles nécessaires, l’organisation du code et son fonctionnement pas à pas.
 
 Aperçu du projet
 Ce projet met en œuvre un système interactif où :
